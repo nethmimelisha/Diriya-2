@@ -2086,6 +2086,10 @@ blockquote, blockquote a, blockquote a:hover {
 .image_frame .image_wrapper .mask::after {
 	background: rgba(255, 255, 255, 0.4);
 }
+.image_frame .image_wrapper  {
+    max-width: 50% !important;
+    height: auto !important;
+}
 .sliding_box .desc_wrapper {
 	background: #55c593;
 }
