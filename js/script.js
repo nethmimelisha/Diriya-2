@@ -8,8 +8,8 @@ function SendMail(){
         body : document.getElementById("body").value
     };
   
-    const serviceID = "service_ar8kncl";
-    const templateID = "template_pwkgfoh"
+    const serviceID = "service_zao9d57";
+    const templateID = "template_zgonjly"
 
     
 
